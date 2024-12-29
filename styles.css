@@ -105,7 +105,7 @@
  }
  .hero-section .dancing{
    letter-spacing: 1px;
-   color: #ffeba7;
+/*    color: #ffeba7; */
    font-size: 25px;
    line-height: 1;
    font-weight: 700;
@@ -119,7 +119,7 @@
    padding-right: 10px;
    display: inline-block;
    border-radius: 5px;
-   background-color: #102770;
+/*    background-color: #102770; */
  }
  @media screen and (max-width: 580px){
    .hero-section .dancing{
